@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="16" viewBox="0 0 20 16">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <image id="youtube" class="cls-1" width="20" height="16" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAMAAAAhxq8pAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAP1BMVEUAAAD///////////////////////////////////////////////////////////////////////////8AAABDBdx4AAAAFHRSTlMACD9MTT1DJjwYDDYGMEsCKklKQbQPveYAAAABYktHRACIBR1IAAAACXBIWXMAAAsSAAALEgHS3X78AAAATUlEQVQY043QOQ6AQAwDQAdnl/vc//+VhgbsApcjRXGC6JivsARqSiqoSKTJg/1gcMQ0UxFY1k0R2I/T4fVj3CyylT7l7ZlNsSGKvu4GkzoFi//8eJYAAAAASUVORK5CYII="/>
+</svg>
